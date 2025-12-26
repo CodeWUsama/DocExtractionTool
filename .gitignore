@@ -14,8 +14,6 @@ Thumbs.db
 *~
 
 # Environment Variables
-.env
-.env.local
 .env*.local
 !.env.local.example
 !.env.example
@@ -107,3 +105,4 @@ yarn-error.log*
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+config.bat
